@@ -1,0 +1,12 @@
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\Victor\MisionTic\CICLO3\DESARROLLO\ProyectoGrupo48\ProyectoEmpresa\Dominio\obj\Debug\net5.0\Dominio.pdb
